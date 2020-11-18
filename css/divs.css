@@ -1,0 +1,13 @@
+#snakediv {
+}
+#all_div {
+  border: 2px solid black;
+}
+.div{
+  float: left;
+  border: 0px solid black;
+}
+.div_snake{
+  float: left;
+  border: 0px solid black;
+}
